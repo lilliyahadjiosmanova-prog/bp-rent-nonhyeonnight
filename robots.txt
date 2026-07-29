@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nonhyeonnight.xyz/sitemap-index.xml
